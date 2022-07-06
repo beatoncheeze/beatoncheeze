@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![Java](https://img.shields.io/badge/Java-8-lightgrey?style=flat&logo=Java&logoColor=blue)                   
+![Java](https://img.shields.io/badge/Java-8-lightgrey?style=flat&logo=java&logoColor=blue)                   
 ![Spring](https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=white)
 
-<img src="https://img.shields.io/badge/java-lightgrey?style=flat&logo=Java&logoColor=white">​
+<img src="https://img.shields.io/badge/java-lightgrey?style=flat&logo=java&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatoncheeze&show_icons=true&theme=dracula)
 
