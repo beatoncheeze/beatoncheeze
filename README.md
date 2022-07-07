@@ -29,9 +29,14 @@
 
 <div align="center">
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=beatoncheeze)](https://solved.ac/beatoncheeze)
-  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatoncheeze&show_icons=true&theme=dracula)
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatoncheeze&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beatoncheeze)](https://solved.ac/beatoncheeze/)
+
 </div>
