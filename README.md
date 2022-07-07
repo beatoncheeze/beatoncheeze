@@ -23,6 +23,14 @@
 <div align="center">
 <a href="https://www.instagram.com/mingmizz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"/></a> 
 <a href="https://velog.io/@beatoncheeze"><img src="https://img.shields.io/badge/velog-%2320c977.svg?style=flat&logo=Velog&logoColor=white"/></a> 
+<a href="mailto:garamminchan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>           
+          
+</div>
+
+
+<div align="center">
+          
+
 </div>
 
 <br></br>
