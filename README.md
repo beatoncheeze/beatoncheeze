@@ -41,4 +41,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beatoncheeze)](https://solved.ac/beatoncheeze/)
 
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeatoncheeze%2Fhit-counter&count_bg=%235486B4&title_bg=%2326CAB0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 </div>
