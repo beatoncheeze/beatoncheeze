@@ -47,7 +47,7 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beatoncheeze)](https://solved.ac/beatoncheeze/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beatoncheeze)](https://solved.ac/devmizz/)
 
 <br>
 
