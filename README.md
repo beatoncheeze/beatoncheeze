@@ -4,7 +4,7 @@
 
 <h1 align="center">😎 About Me</h1>
 
-<h4 align="center">🦁 멋쟁이사자처럼 백엔드 스쿨 1기(2022.06.15 ~ ) 🦁</h4>
+<h4 align="center">🦁 멋쟁이사자처럼 백엔드 스쿨 1기(2022.06.15 ~ 2022.11.11) 🦁</h4>
 
 <h3 align="center">🛠 Study</h3>
 
