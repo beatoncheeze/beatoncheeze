@@ -26,29 +26,3 @@
 </div>
 
 
-<div align="center">
-          
-
-</div>
-
-<br></br>
-
-
-
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmizz&show_icons=true&theme=dracula)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmizz&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devmizz)](https://solved.ac/devmizz/)
-
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeatoncheeze%2Fhit-counter&count_bg=%235486B4&title_bg=%2326CAB0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-</div>
