@@ -11,7 +11,7 @@
 <div align="center">
   
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%23ED8B00.svg?style=flat&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   
